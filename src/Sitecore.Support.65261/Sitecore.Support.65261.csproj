@@ -55,7 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="Package\Sitecore Support Package 65261-8.2.0.0.zip" />
     <None Include="web.config" />
   </ItemGroup>
   <ItemGroup />
